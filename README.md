@@ -30,7 +30,7 @@
 </figure><center>
 
 <figure>
-	<img src="file:///C:/Users/GHOSTBUDDY/Desktop/public_html/Ashoka%20Tano.webp"
+	<img src="Ashoka Tano - копия.jpg"
 	width= "40%" alt= "Ashoka from the end of Ashoka book">
 	<figcaption>Ashoka from the end of Ashoka book.</figcaption>
 </figure>
